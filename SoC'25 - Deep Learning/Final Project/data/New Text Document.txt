@@ -1,0 +1,1 @@
+archieved datasets folder(CUB_200_2011) due to its large size(~1GB), which made it hard to push onto GitHub

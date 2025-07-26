@@ -1,0 +1,2 @@
+name = "Tezas"
+print(name)
